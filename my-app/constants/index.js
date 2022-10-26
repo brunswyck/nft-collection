@@ -1,5 +1,6 @@
 // export const NFT_CONTRACT_ADDRESS = "${process.env.CRYPTO_DEVS_CONTRACT_ADDRESS}";
-export const NFT_CONTRACT_ADDRESS = "0x81b12286451E8d919b8BC8185e68548fcd9Fcf96";
+//export const NFT_CONTRACT_ADDRESS = "0x81b12286451E8d919b8BC8185e68548fcd9Fcf96";
+export const NFT_CONTRACT_ADDRESS = "0xb3b860D081b07cFAbf11c01813f9BBb2fa842C50";
 export const abi = [
     {
       "inputs": [
